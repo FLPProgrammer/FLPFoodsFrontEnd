@@ -2,6 +2,12 @@
 
 Durante o desenvolvimento, criei alguns contextos específicos, como autenticação, carrinho, carteira simulada e controle de mesas. Também organizei os módulos separados, com o objetivo de deixar a aplicação mais fácil de entender e manter.
 
+<<<<<<< HEAD
 A aplicação contém foi estilizada com CSS-IN-JSS aproveitei para praticar conceitos de CSS como responsividade e flex-box.
 
 Esse foi um dos meus primeiros projetos em React, onde consegui aplicar alguns conhecimentos mais avançados que eu vinha estudando. Vale lembrar que algumas funcionalidades utilizam dados mockados, pois o foco principal foi o aprendizado e a prática dos conceitos.
+=======
+A aplicação contém foi estilizada com CSS-IN-JSS aproveitei para praticar conceitos de CSS como responsividade e flex-box
+
+Esse foi um dos meus primeiros projetos em React, onde consegui aplicar alguns conhecimentos mais avançados que eu vinha estudando. Vale lembrar que algumas funcionalidades utilizam dados mockados, pois o foco principal foi o aprendizado e a prática dos conceitos.
+>>>>>>> 35649634d750ceabdc382f85236ca2852fa1da09
