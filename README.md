@@ -18,8 +18,6 @@ Esse foi um dos meus primeiros projetos em React, onde consegui aplicar alguns c
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br/>
-      Prisma
+      React
     </td>
-    <td align="center">
-  </tr>
 </table>
