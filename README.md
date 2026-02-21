@@ -9,3 +9,17 @@ Esse foi um dos meus primeiros projetos em React, onde consegui aplicar alguns c
 A aplicação contém foi estilizada com CSS-IN-JSS aproveitei para praticar conceitos de CSS como responsividade e flex-box
 
 Esse foi um dos meus primeiros projetos em React, onde consegui aplicar alguns conhecimentos mais avançados que eu vinha estudando. Vale lembrar que algumas funcionalidades utilizam dados mockados, pois o foco principal foi o aprendizado e a prática dos conceitos.
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/><br/>
+      TypeScript
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br/>
+      Prisma
+    </td>
+    <td align="center">
+  </tr>
+</table>
