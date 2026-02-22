@@ -1,27 +1,30 @@
 {
   "compilerOptions": {
-    "baseUrl": "./src",
-    "paths": {
-      "@/*": ["./*"]
-    },
-    "tsBuildInfoFile": "./node_modules/.tmp/tsconfig.app.tsbuildinfo",
-    "target": "es2020",
+    "target": "ES2022",
     "useDefineForClassFields": true,
-    "lib": ["es2020", "dom", "dom.iterable"],
-    "module": "esnext",
+    "lib": ["ES2022", "DOM", "DOM.Iterable"],
+    "module": "ESNext",
     "skipLibCheck": true,
-    "allowSyntheticDefaultImports": true,
-    "allowImportingTsExtensions": true,
+
+    /* Bundler mode */
+    "moduleResolution": "Bundler",
+    "allowImportingTsExtensions": false,
+    "resolveJsonModule": true,
     "isolatedModules": true,
-    "moduleDetection": "force",
     "noEmit": true,
     "jsx": "react-jsx",
+
+    /* Strict */
     "strict": true,
     "noUnusedLocals": true,
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true,
-    "noUncheckedSideEffectImports": true,
-    "moduleResolution": "node"
+
+    /* Paths (opcional, mas moderno) */
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["src/*"]
+    }
   },
   "include": ["src"]
 }
