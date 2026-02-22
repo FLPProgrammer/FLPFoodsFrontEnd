@@ -9,4 +9,4 @@ Esse foi um dos meus primeiros projetos em React, onde consegui aplicar alguns c
 A aplicação contém foi estilizada com CSS-IN-JSS aproveitei para praticar conceitos de CSS como responsividade e flex-box
 
 Esse foi um dos meus primeiros projetos em React, onde consegui aplicar alguns conhecimentos mais avançados que eu vinha estudando. Vale lembrar que algumas funcionalidades utilizam dados mockados, pois o foco principal foi o aprendizado e a prática dos conceitos.
->>>>>>> 35649634d750ceabdc382f85236ca2852fa1da09
+
