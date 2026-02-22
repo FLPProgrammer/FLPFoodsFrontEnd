@@ -10,3 +10,22 @@ A aplicação contém foi estilizada com CSS-IN-JSS aproveitei para praticar con
 
 Esse foi um dos meus primeiros projetos em React, onde consegui aplicar alguns conhecimentos mais avançados que eu vinha estudando. Vale lembrar que algumas funcionalidades utilizam dados mockados, pois o foco principal foi o aprendizado e a prática dos conceitos.
 
+<div align="center">
+  
+<table>
+<tr>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60"/><br>
+TypeScript
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"/><br>
+React
+</td>
+
+</tr>
+</table>
+
+</div>
